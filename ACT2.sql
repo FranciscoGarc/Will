@@ -310,7 +310,6 @@ VALUES
   (3, 9.99, 15, 29),
   (1, 34.99, 15, 30);
 
--- Insertar datos en la tabla Valoraciones
 INSERT INTO Valoraciones (Calificacion_producto, Comentario_Producto, Estado_comentario, Id_Detalle)
 VALUES 
   (4, '¡Excelente producto!', true, 1),
